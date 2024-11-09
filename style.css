@@ -1,4 +1,11 @@
-<!DOCTYPE html>
-<hmtl lang-"pt-br">
-<head>
-<meta
+.chamada{
+ background: yellow;
+ display: flex;
+ margin-top: 800px;
+ margin-bottom: 800px;
+ justify-content: center;
+}
+body {
+    background-color: black;
+    margin: 0px;
+}
