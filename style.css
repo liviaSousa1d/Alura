@@ -6,7 +6,7 @@
  justify-content: center;
 }
 body {
-    background-color: rgb(255, 134, 22);
+    background: rgb(255, 134, 22);
     margin: 0px;
 }
 header {
@@ -18,9 +18,10 @@ header {
 h1{
     font-style: 40px;
 }
-.chamada-texto(
-    margin-right: 5%;
-)
+.chamada-texto{
+        margin-right: 5%;
+
+}
 .categoria{
     margin-top: 50px;
     padding-left: 20px;
@@ -35,7 +36,7 @@ h1{
     height: 200px;
     opacity: 0.5;
 }
-.categoria-videos img;:hover{
+.categoria-videos img:hover{
     opacity: 1.0;
     border: 3px solid red;
 }
